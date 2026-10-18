@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-19",
+  "available_minutes": 90,
+  "tasks": [
+    {
+      "id": "a",
+      "title": "Send requested proposal",
+      "priority": 1,
+      "minutes": 40,
+      "status": "ready",
+      "due": "2026-10-18"
+    },
+    {
+      "id": "b",
+      "title": "Review notes",
+      "priority": 3,
+      "minutes": 60,
+      "status": "ready"
+    },
+    {
+      "id": "c",
+      "title": "Wait for invoice",
+      "priority": 2,
+      "minutes": 20,
+      "status": "blocked",
+      "due": "2026-10-19"
+    }
+  ]
+}

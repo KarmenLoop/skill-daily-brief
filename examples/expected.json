@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-19",
+  "agenda": [
+    {
+      "id": "a",
+      "title": "Send requested proposal",
+      "priority": 1,
+      "minutes": 40,
+      "status": "ready",
+      "due": "2026-10-18",
+      "deadline_class": "overdue"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "c",
+      "title": "Wait for invoice",
+      "priority": 2,
+      "minutes": 20,
+      "status": "blocked",
+      "due": "2026-10-19",
+      "deadline_class": "today"
+    }
+  ],
+  "deferred": [
+    {
+      "id": "b",
+      "title": "Review notes",
+      "priority": 3,
+      "minutes": 60,
+      "status": "ready",
+      "deadline_class": "undated"
+    }
+  ],
+  "remaining_minutes": 50
+}

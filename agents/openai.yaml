@@ -1,0 +1,4 @@
+interface:
+  display_name: "KarmenLoop Daily Brief"
+  short_description: "Daily Brief with reproducible local checks"
+  default_prompt: "Use $karmen-daily-brief to prepare my daily brief from these tasks with 90 minutes available."
