@@ -3,7 +3,7 @@ name: karmen-daily-brief
 description: "Turn task records into a realistic daily agenda. Use when a user needs a morning briefing or a prioritized daily work list."
 metadata:
   author: KarmenLoop
-  version: "0.1.0"
+  version: "0.2.0"
 ---
 
 # Daily Brief
