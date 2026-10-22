@@ -4,7 +4,7 @@
 
 用已有任务整理今天能做的事。工具会单独列出受阻事项，并根据可用分钟数安排已就绪任务，方便看出哪些需要留到之后。
 
-[下载 v0.2.1](https://github.com/KarmenLoop/skill-daily-brief/releases/tag/v0.2.1) · [完整教程](docs/tutorial.zh-CN.md) · [输入参考（英文）](docs/INPUT.md) · [反馈问题](https://github.com/KarmenLoop/skill-daily-brief/issues)
+[下载 v0.2.1](https://github.com/KarmenLoop/skill-daily-brief/releases/tag/v0.2.1) · [完整教程](docs/tutorial.zh-CN.md) · [输入参考](docs/input.zh-CN.md) · [反馈问题](https://github.com/KarmenLoop/skill-daily-brief/issues)
 
 ## 能做什么
 
@@ -41,7 +41,7 @@ python3 install.py --host agents
 
 用同一批任务比较只有 30 分钟和有 120 分钟的安排，检查 deferred 中的变化，避免把全部任务都当成已经排好。
 
-准备新输入前可查看[字段约定（英文）](docs/INPUT.md)。工具只依赖 Python 标准库，本身不需要模型账号、API 密钥或网络。使用 AI 宿主时，宿主有自己的数据与权限设置。
+准备新输入前可查看[字段约定](docs/input.zh-CN.md)。工具只依赖 Python 标准库，本身不需要模型账号、API 密钥或网络。使用 AI 宿主时，宿主有自己的数据与权限设置。
 
 ## 常见问题
 
@@ -52,7 +52,7 @@ python3 install.py --host agents
 ## 文档与支持
 
 - [下载、安装、配置、练习、升级与卸载](docs/tutorial.zh-CN.md)
-- [输入输出约定](docs/INPUT.md)与[兼容性说明](docs/COMPATIBILITY.md)（英文参考）
+- [输入输出约定](docs/input.zh-CN.md)与[兼容性说明](docs/COMPATIBILITY.md)（英文参考）
 - [更新记录](CHANGELOG.md)、[参与贡献](CONTRIBUTING.md)、[支持](SUPPORT.md)和[安全反馈](SECURITY.md)
 
 ## 许可证
